@@ -214,11 +214,11 @@ button:focus {
 /*-- End Navbar --*/
 /*-- Banner --*/
 .banner-img-one {
-  background-image: url("../img/1920x814bannerimage.jpg");
+  background-image: url("../img/bannerImage.png");
 }
 
 .banner-area {
-  height: 830px;
+  height: 730px;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
