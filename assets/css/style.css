@@ -3228,3 +3228,15 @@ footer .copyright-area .copyright-right {
     overflow-x: scroll;
 }
 }
+
+@media only screen and (max-width: 1024px) {
+  .banner-right .responsive-img {
+      display: none !important;
+  }
+}
+
+@media only screen and (min-width: 1025px) {
+  .banner-right .responsive-img {
+      display: block !important;
+  }
+}
